@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+#apps{
+    height: 800px;
+        width: 100%;
+        background-color:lightyellow;
+}
+.line{
+height: 6px;
+    background-color: black;
+    width: 170px;
+    margin: 8px auto;
+}
+
+#games{
+    height: 800px;
+        width: 100%;
+        background-color:lightblue;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(1.5);
+}
+#chatbox{
+
+height: 800px;
+        width: 100%;
+        background-color:lightyellow;
+    }
